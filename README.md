@@ -163,6 +163,9 @@ Check the Argo CD application status:
 kubectl get applications -n argocd
 ```
 
+How is looks like
+<img width="3020" height="1614" alt="image" src="https://github.com/user-attachments/assets/1be3543c-394b-49b4-86ec-072ddf50250f" />
+
 ---
 
 ## Cleanup
